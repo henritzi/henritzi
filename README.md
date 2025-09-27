@@ -15,7 +15,7 @@ Hi, I'm **Rafael Henritzi**
 <div>
  <a href="https://github.com/henritzi"> 
  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=henritzi&show_icons=true&theme=tokyonight"/>
- <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henritzi&layout=compact&theme=tokyonight"/> 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henritzi)](https://github.com/henritzi/github-readme-stats)
 </div>  
 
 ## 🌐 Languages & Tools
