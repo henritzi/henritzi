@@ -9,7 +9,8 @@ Hi, I'm **Rafael Henritzi**
 
 ## ♾️ Connect with me
 
-- [Instagram](https://www.instagram.com/henritzi_/)  
+- [Instagram](https://www.instagram.com/henritzi_/)
+- [Linkedin](https://www.linkedin.com/in/rafael-henritzi/)
 
 ## 🤖 Github Stats
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=henritzi&show_icons=true&theme=tokyonight)
