@@ -12,11 +12,9 @@ Hi, I'm **Rafael Henritzi**
 - [Instagram](https://www.instagram.com/henritzi_/)  
 
 ## 🤖 Github Stats
-<div>
- <a href="https://github.com/henritzi"> 
- <img height="170em" src="https://github-readme-stats.vercel.app/api?username=henritzi&show_icons=true&theme=tokyonight"/>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henritzi)](https://github.com/henritzi/github-readme-stats)
-</div>  
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henritzi&theme=tokyonight)](https://github.com/henritzi/github-readme-stats)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=henritzi&show_icons=true&theme=tokyonight)
+   
 
 ## 🌐 Languages & Tools
 [![My Skills](https://skillicons.dev/icons?i=java,python,vscode)](https://skillicons.dev)
