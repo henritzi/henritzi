@@ -10,9 +10,9 @@ Hi, I'm **Rafael Henritzi**
 ## Github Stats
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=henritzi&show_icons=true&theme=tokyonight)
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henritzi&theme=tokyonight)](https://github.com/henritzi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henritzi&layout=compact&theme=tokyonight&card_width=468)](https://github.com/anuraghazra/github-readme-stats)
+ 
 
 ## Connect with me
 
-- [Instagram](https://www.instagram.com/henritzi_/)
 - [Linkedin](https://www.linkedin.com/in/rafael-henritzi/)
